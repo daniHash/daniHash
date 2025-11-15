@@ -22,7 +22,7 @@
 </h2>
 
 <p>
-    <h3>Front-End Skills:</h3><br>
+    <h3>Front-End Skills:</h3>
      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/html.png" width="40" height="40" alt="HTML" /></a>
      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/css.png" width="40" height="40" alt="CSS" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/js.png" width="40" height="40" alt="JavaScript" /></a>
@@ -31,6 +31,9 @@
     <a href="https://react.dev/" target="_blank"><img src="/icons/react.png" width="40" height="40" alt="React" /></a>
     <a href="https://redux.js.org/" target="_blank"><img src="/icons/redux.png" width="40" height="40" alt="Redux" /></a>
     <a href="https://react-leaflet.js.org/" target="_blank"><img src="/icons/leaflet.jpeg" width="40px" height="40px" alt="React Leaflet" /></a>
+    <h3>Design Skills:</h3>
+     <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/illustrator.png" width="40" height="40" alt="Illustrator" /></a>
+     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/figma.png" width="40" height="40" alt="Figma" /></a>
 </p>
 
 ## 📡 Connect with Me
