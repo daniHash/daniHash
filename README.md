@@ -1,4 +1,4 @@
-<h1>Hey body,im "Danial Hajhashemkhani"👋</h1>
+<h1>Hey body, im "Danial Hajhashemkhani"👋</h1>
 
 <h2 align="center">ST About Me🙋‍♂️</h2>
 <p>  
@@ -51,6 +51,7 @@
     <a href="mailto:danihashdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-danihashdev@gmail.com-green?style=flat&logo=gmail"/></a>
     <a href="http://figma.com/@daniHash"><img src="https://img.shields.io/badge/Figma-@daniHash-orange?style=flat&logo=figma"/></a>
 </p>
+
 ---
 
 > 💡 _Built for change. Wired for growth._
