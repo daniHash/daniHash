@@ -1,7 +1,7 @@
 <h1>Hey buddy, im "Danial Hajhashemkhani"👋</h1>
 
 <h2 align="center">Something About Me 🙋‍♂️</h2>
-<p>  
+<h4>  
   <p align="center">Frontend Developer🧑‍💻 <b>&</b> UIUX Designer🎨</p>
   -📆 I was born in <b>Esfahan</b>, the heart of <b>Iran</b>, on April 10th, <b>2008</b>.  
   <br>
@@ -13,7 +13,7 @@
   <br>
   -💡 I'm a fun-loving, lighthearted guy who enjoys:
   <code class="language-javascript">["movies", "series", "football", "music", "coding"]</code>
-</p>
+</h4>
 
 ---
 
