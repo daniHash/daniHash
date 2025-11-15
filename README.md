@@ -21,7 +21,7 @@
 
 ## 💡 My Superpowers
 
-<p>
+<p style="display: flex; gap: 30px;">
     <a href="#" target="_blank" rel="noreferrer">
         <img src="/icons/html.png" width="40" height="40" alt"HTML"/>
     </a>
