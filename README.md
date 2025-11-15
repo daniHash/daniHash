@@ -1,10 +1,10 @@
 <h1>Hey body,<br> My name is "Danial Hajhashemkhani"👋</h1>
-<p>Frontend Developer🧑‍💻 <b>&</b> UIUX Designer🎨</p>
 
 ---
 
 <h2 align="center">ST About Me🙋‍♂️</h2>
 <p>  
+<span align="center">Frontend Developer🧑‍💻 <b>&</b> UIUX Designer🎨</span>
   -📆 I was born in <b>Esfahan</b>, the heart of <b>Iran</b>, on April 10th, <b>2008</b>.  
   <br>
   -💻 I've been passionate about programming since I was 15 and started exploring the world of web development.  
