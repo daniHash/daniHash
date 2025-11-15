@@ -23,31 +23,31 @@
 
 <p>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="/icons/html.png" width="40" height="40" alt"HTML"/>
+        <img src="/icons/html.png" width="40" height="40" alt="HTML" />
     </a>
-    <a href="http://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="/icons/css.png" width="40" height="40" alt"CSS"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="/icons/css.png" width="40" height="40" alt="CSS" />
     </a>
-    <a href"https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="/icons/js.png" width="40" height="40" alt"JS"/>
-    </a>
-    <a href="#" target="_blank">
-        <img src="/icons/tailwind.png" width="40" height="40" alt"Tailwind"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="/icons/js.png" width="40" height="40" alt="JavaScript" />
     </a>
     <a href="#" target="_blank">
-        <img src="/icons/bootstrap.png" width="40" height="40" alt"Bootstrap"/>
+        <img src="/icons/tailwind.png" width="40" height="40" alt="TailwindCSS" />
     </a>
     <a href="#" target="_blank">
-        <img src="/icons/react.png" width="40" height="40" alt"React"/>
+        <img src="/icons/bootstrap.png" width="40" height="40" alt="Bootstrap" />
     </a>
     <a href="#" target="_blank">
-        <img src="/icons/redux.png" width="40" height="40" alt"Redux"/>
+        <img src="/icons/react.png" width="40" height="40" alt="React" />
     </a>
     <a href="#" target="_blank">
-        <img src="/icons/router.jpg" width="40" height="40" alt"React-router-dom"/>
+        <img src="/icons/redux.png" width="40" height="40" alt="Redux" />
     </a>
     <a href="#" target="_blank">
-        <img src="/icons/leaflet.png" width="40" height="40" alt"React-leaflet"/>
+        <img src="/icons/router.jpg" width="40" height="40" alt="React Router" />
+    </a>
+    <a href="#" target="_blank">
+        <img src="/icons/leaflet.png" width="40" height="40" alt="React Leaflet" />
     </a>
 </p>
 
