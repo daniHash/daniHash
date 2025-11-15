@@ -35,8 +35,8 @@
      <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/illustrator.png" width="40" height="40" alt="Illustrator" /></a>
      <a href="http://figma.com/@daniHash" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/figma.png" width="40" height="40" alt="Figma" /></a>
     <h3>🛠️ Tools & Other Tech:</h3>
-     <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/git.png" width="40" height="40" alt="Git" /></a>
-     <a href="http://figma.com/@daniHash" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/npm.png" width="40" height="40" alt="Npm" /></a>
+     <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/git.png" width="40" height="40" alt="Git" /></a>
+     <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/npm.png" width="40" height="40" alt="Npm" /></a>
 </p>
 
 ## 📡 Connect with Me
