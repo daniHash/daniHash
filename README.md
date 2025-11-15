@@ -60,7 +60,7 @@
 
 ---
 
-<a href="https://github-readme-stats.vercel.app/api?username=daniHash&show_icons=true&theme=highcontrast">
-    <img src="https://github-readme-stats.vercel.app/api?username=daniHash&show_icons=true&theme=highcontrast"/>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdrcDFkOWMxc3BuM2l3eGVlNXA2cjZudmpmY3VsNjZncWRweXE5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniHash&show_icons=true&theme=highcontrast" height="170"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdrcDFkOWMxc3BuM2l3eGVlNXA2cjZudmpmY3VsNjZncWRweXE5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" height="170"/>
+</p>
