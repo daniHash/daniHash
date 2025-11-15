@@ -32,22 +32,22 @@
         <img src="/icons/js.png" width="36" height="36" alt"JS"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="/icons/tailwind.png" width="36" height="36" alt"Tailwind"/>
+        <img src="/icons/tailwind.png" width="44" height="44" alt"Tailwind"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="/icons/bootstrap.png" width="36" height="36" alt"Bootstrap"/>
+        <img src="/icons/bootstrap.png" width="44" height="44" alt"Bootstrap"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="/icons/react.png" width="36" height="36" alt"React"/>
+        <img src="/icons/react.png" width="44" height="44" alt"React"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="/icons/redux.png" width="36" height="36" alt"Redux"/>
+        <img src="/icons/redux.png" width="44" height="44" alt"Redux"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="/icons/router.png" width="36" height="36" alt"React-router-dom"/>
+        <img src="/icons/router.png" width="44" height="44" alt"React-router-dom"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="/icons/leaflet.png" width="36" height="36" alt"React-leaflet"/>
+        <img src="/icons/leaflet.png" width="44" height="44" alt"React-leaflet"/>
     </a>
 </p>
 
