@@ -46,7 +46,7 @@
 </h2>
 
 <p align="center">
-    <a href="https://telegram.com/youllNeverNkowDani"><img src="https://img.shields.io/badge/Telegram-@youllNeverNkowDani-blue?style=flat&logo=telegram"/></a>
+    <a href="https://t.me/youllNeverKnowDani"><img src="https://img.shields.io/badge/Telegram-@youllNeverNkowDani-blue?style=flat&logo=telegram"/></a>
 </p>
 ---
 
