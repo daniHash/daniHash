@@ -44,7 +44,7 @@
         <img src="/icons/redux.png" width="60" height="60" alt"Redux"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="/icons/router.png" width="60" height="60" alt"React-router-dom"/>
+        <img src="/icons/router.jpg" width="60" height="60" alt"React-router-dom"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
         <img src="/icons/leaflet.png" width="60" height="60" alt"React-leaflet"/>
