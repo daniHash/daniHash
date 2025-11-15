@@ -21,7 +21,11 @@
 
 ## 💡 My Superpowers
 
-<p>d</p>
+<p>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="/icons/html.png" width="36" height="36" alt"HTML"/>
+    </a>
+</p>
 
 ## 📡 Connect with Me
 
