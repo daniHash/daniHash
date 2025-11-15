@@ -33,7 +33,7 @@
     <a href="https://react-leaflet.js.org/" target="_blank"><img src="/icons/leaflet.jpeg" width="40px" height="40px" alt="React Leaflet" /></a>
     <h3>Design Skills:</h3>
      <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/illustrator.png" width="40" height="40" alt="Illustrator" /></a>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/figma.png" width="40" height="40" alt="Figma" /></a>
+     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/figma.png" width="50" height="50" alt="Figma" /></a>
 </p>
 
 ## 📡 Connect with Me
