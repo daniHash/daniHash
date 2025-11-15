@@ -41,13 +41,13 @@
 
 ---
 
-## 📡 Connect with Me
+<h2 align="center">
+    📡 Connect with Me
+</h2>
 
-- 📩 Email: [salitech.2008@gmail.com](mailto:salitech.2008@gmail.com)
-- 💬 Telegram Chat: [@SaliTechOfficial](https://t.me/SaliTechOfficial)
-- 📢 Telegram Channel: [SaliTech Official](https://t.me/salitech_official)
-- 📸 Instagram: [@salitech_official](https://www.instagram.com/salitech_official/)
-
+<p align="center">
+    <a href="https://telegram.com/youllNeverNkowDani"><img src="https://img.shields.io/badge/Telegram-@youllNeverNkowDani-blue?style=flat&logo=telegram"/></a>
+</p>
 ---
 
 > 💡 _Built for change. Wired for growth._
