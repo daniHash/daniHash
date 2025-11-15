@@ -48,7 +48,7 @@
 <p align="center">
     <a href="https://t.me/youllNeverKnowDani"><img src="https://img.shields.io/badge/Telegram-@youllNeverNkowDani-blue?style=flat&logo=telegram"/></a>
     <a href="https://instagram.com/itsdanioo"><img src="https://img.shields.io/badge/Instagram-@itsdanioo-red?style=flat&logo=instagram"/></a>
-    <a href="mailto:danihashdev@gmail.com"><img src="https://img.shields.io/badge/Linkedin-danihashdev@gmail.com-green?style=flat&logo=gmail"/></a>
+    <a href="mailto:danihashdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-danihashdev@gmail.com-green?style=flat&logo=gmail"/></a>
     <a href="http://figma.com/@daniHash"><img src="https://img.shields.io/badge/Figma-@daniHash-orange?style=flat&logo=figma"/></a>
 </p>
 ---
