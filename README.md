@@ -39,6 +39,8 @@
      <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/npm.png" width="40" height="40" alt="Npm" /></a>
 </p>
 
+---
+
 ## 📡 Connect with Me
 
 - 📩 Email: [salitech.2008@gmail.com](mailto:salitech.2008@gmail.com)
