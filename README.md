@@ -24,31 +24,13 @@
 <p>
      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/html.png" width="40" height="40" alt="HTML" /></a>
      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/css.png" width="40" height="40" alt="CSS" /></a>
-
-    <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-       target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-        <img src="/icons/js.png" width="40" height="40" alt="JavaScript" />
-    </a>
-
-    <a href="#" target="_blank">
-        <img src="/icons/tailwind.png" width="40" height="40" alt="TailwindCSS" />
-    </a>
-    <a href="#" target="_blank">
-        <img src="/icons/bootstrap.png" width="40" height="40" alt="Bootstrap" />
-    </a>
-    <a href="#" target="_blank">
-        <img src="/icons/react.png" width="40" height="40" alt="React" />
-    </a>
-    <a href="#" target="_blank">
-        <img src="/icons/redux.png" width="40" height="40" alt="Redux" />
-    </a>
-    <a href="#" target="_blank">
-        <img src="/icons/router.jpg" width="40" height="40" alt="React Router" />
-    </a>
-    <a href="#" target="_blank">
-        <img src="/icons/leaflet.png" width="40" height="40" alt="React Leaflet" />
-    </a> -->
-
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/js.png" width="40" height="40" alt="JavaScript" /></a>
+    <a href="#" target="_blank"><img src="/icons/tailwind.png" width="40" height="40" alt="TailwindCSS" /></a>
+    <a href="#" target="_blank"><img src="/icons/bootstrap.png" width="40" height="40" alt="Bootstrap" /></a>
+    <a href="#" target="_blank"><img src="/icons/react.png" width="40" height="40" alt="React" /></a>
+    <a href="#" target="_blank"><img src="/icons/redux.png" width="40" height="40" alt="Redux" /></a>
+    <a href="#" target="_blank"><img src="/icons/router.jpg" width="40" height="40" alt="React Router" /></a>
+    <a href="#" target="_blank"><img src="/icons/leaflet.png" width="40" height="40" alt="React Leaflet" /></a>
 </p>
 
 ## 📡 Connect with Me
