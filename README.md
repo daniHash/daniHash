@@ -1,1 +1,37 @@
-<h1>Hey body</h1><img align="center" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NW41Z29kMDZodHF1NjU3N2JtcjdwN2FuemZpdmdwNXRucTZhYW5nYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rDeYzCwoZlvclPUhf9/giphy.gif" width="250" />
+<h1>Hey body,<br> My name is "Danial Hajhashemkhani"👋</h1>
+<p>Frontend Developer🧑‍💻 <b>&</b> UIUX Designer🎨</p>
+
+---
+
+<h2 align="center">ST About Me🙋‍♂️</h2>
+<p>  
+  -📆 I was born in <b>Esfahan</b>, the heart of <b>Iran</b>, on April 10th, <b>2008</b>.  
+  <br>
+  -💻 I've been passionate about programming since I was 15 and started exploring the world of web development.  
+  <br>
+  -🎨 I also dabble in <b>UI/UX</b> design.  
+  <br>
+  -📚 Currently, I'm studying <b>Computer Science</b> at Aboozar Conservatory.  
+  <br>
+  -💡 I'm a fun-loving, lighthearted guy who enjoys:
+  <code class="language-javascript">["movies", "series", "football", "music", "coding"]</code>
+</p>
+
+---
+
+## 💡 My Superpowers
+
+---
+
+## 📡 Connect with Me
+
+- 📩 Email: [salitech.2008@gmail.com](mailto:salitech.2008@gmail.com)
+- 💬 Telegram Chat: [@SaliTechOfficial](https://t.me/SaliTechOfficial)
+- 📢 Telegram Channel: [SaliTech Official](https://t.me/salitech_official)
+- 📸 Instagram: [@salitech_official](https://www.instagram.com/salitech_official/)
+
+---
+
+> 💡 _Built for change. Wired for growth._
+
+---
