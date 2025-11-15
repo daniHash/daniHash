@@ -4,13 +4,13 @@
 <p>  
   <p align="center">Frontend Developer🧑‍💻 <b>&</b> UIUX Designer🎨</p>
   -📆 I was born in <b>Esfahan</b>, the heart of <b>Iran</b>, on April 10th, <b>2008</b>.  
-  <br><br>
+  <br>
   -💻 I've been passionate about programming since I was 15 and started exploring the world of web development.  
-  <br><br>
+  <br>
   -🎨 I also dabble in <b>UI/UX</b> design.  
-  <br><br>
+  <br>
   -📚 Currently, I'm studying <b>Computer Science</b> at Aboozar Conservatory.  
-  <br><br>
+  <br>
   -💡 I'm a fun-loving, lighthearted guy who enjoys:
   <code class="language-javascript">["movies", "series", "football", "music", "coding"]</code>
 </p>
