@@ -54,6 +54,8 @@
 
 ---
 
-> 💡 _Built for change. Wired for growth._
+<h5 align="center">
+    ⚡I don’t quit. I refine, improve, and rise — every single time.
+</h5>
 
 ---
