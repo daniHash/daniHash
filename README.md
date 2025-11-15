@@ -22,7 +22,8 @@
 ## 💡 My Superpowers
 
 <p>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/html.png" width="40" height="40" alt="HTML" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/css.png" width="40" height="40" alt="CSS" /></a>
+     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/html.png" width="40" height="40" alt="HTML" /></a>
+     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/css.png" width="40" height="40" alt="CSS" /></a>
 
     <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
        target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
