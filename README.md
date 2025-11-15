@@ -27,7 +27,7 @@
     <a href="https://getbootstrap.com/" target="_blank"><img src="/icons/bootstrap.png" width="40" height="40" alt="Bootstrap" /></a>
     <a href="https://react.dev/" target="_blank"><img src="/icons/react.png" width="40" height="40" alt="React" /></a>
     <a href="https://redux.js.org/" target="_blank"><img src="/icons/redux.png" width="40" height="40" alt="Redux" /></a>
-    <a href="https://react-leaflet.js.org/" target="_blank"><img src="/icons/leaflet.jpeg" width="80" height="80" alt="React Leaflet" /></a>
+    <a href="https://react-leaflet.js.org/" target="_blank"><img src="/icons/leaflet.jpeg" width="40" height="40" alt="React Leaflet" /></a>
 </p>
 
 ## 📡 Connect with Me
