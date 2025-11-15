@@ -21,32 +21,32 @@
 
 ## 💡 My Superpowers
 
-<p style="display: flex; gap: 160px;">
-    <a href="#" target="_blank" rel="noreferrer">
+<p>
+    <a target="_blank">
         <img src="/icons/html.png" width="40" height="40" alt"HTML"/>
     </a>
-    <a href="#" target="_blank" rel="noreferrer">
+    <a target="_blank">
         <img src="/icons/css.png" width="40" height="40" alt"CSS"/>
     </a>
-    <a href="#" target="_blank" rel="noreferrer">
+    <a target="_blank">
         <img src="/icons/js.png" width="40" height="40" alt"JS"/>
     </a>
-    <a href="#" target="_blank" rel="noreferrer">
+    <a href="#" target="_blank">
         <img src="/icons/tailwind.png" width="40" height="40" alt"Tailwind"/>
     </a>
-    <a href="#" target="_blank" rel="noreferrer">
+    <a href="#" target="_blank">
         <img src="/icons/bootstrap.png" width="40" height="40" alt"Bootstrap"/>
     </a>
-    <a href="#" target="_blank" rel="noreferrer">
+    <a href="#" target="_blank">
         <img src="/icons/react.png" width="40" height="40" alt"React"/>
     </a>
-    <a href="#" target="_blank" rel="noreferrer">
+    <a href="#" target="_blank">
         <img src="/icons/redux.png" width="40" height="40" alt"Redux"/>
     </a>
-    <a href="#" target="_blank" rel="noreferrer">
+    <a href="#" target="_blank">
         <img src="/icons/router.jpg" width="40" height="40" alt"React-router-dom"/>
     </a>
-    <a href="#" target="_blank" rel="noreferrer">
+    <a href="#" target="_blank">
         <img src="/icons/leaflet.png" width="40" height="40" alt"React-leaflet"/>
     </a>
 </p>
