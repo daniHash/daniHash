@@ -22,13 +22,13 @@
 ## 💡 My Superpowers
 
 <p>
-    <a target="_blank">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="/icons/html.png" width="40" height="40" alt"HTML"/>
     </a>
-    <a target="_blank">
+    <a href="http://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
         <img src="/icons/css.png" width="40" height="40" alt"CSS"/>
     </a>
-    <a target="_blank">
+    <a href"https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="/icons/js.png" width="40" height="40" alt"JS"/>
     </a>
     <a href="#" target="_blank">
