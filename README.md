@@ -1,4 +1,4 @@
-<h1>Hey buddy, im "Danial Hajhashemkhani"👋</h1>
+<h1>Hey buddy, im "Danial Haj hashem khani"👋</h1>
 
 <h2 align="center">Something About Me 🙋‍♂️</h2>
 <p>  
