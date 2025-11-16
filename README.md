@@ -50,6 +50,7 @@
     <a href="https://instagram.com/itsdanioo"><img src="https://img.shields.io/badge/Instagram-@itsdanioo-red?style=flat&logo=instagram"/></a>
     <a href="mailto:danihashdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-danihashdev@gmail.com-green?style=flat&logo=gmail"/></a>
     <a href="http://figma.com/@daniHash"><img src="https://img.shields.io/badge/Figma-@daniHash-orange?style=flat&logo=figma"/></a>
+    <a href="https://www.linkedin.com/in/danihash/"><img src="https://img.shields.io/badge/Linkedin-danihash-darkblue?style=flat&logo=linkedin"/></a>
 </p>
 
 ---
