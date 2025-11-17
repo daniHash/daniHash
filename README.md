@@ -55,9 +55,9 @@
 
 ---
 
-<h5 align="center">
+<h3 align="center">
     ⚡I don’t quit. I refine, improve, and rise — every single time.
-</h5>
+</h3>
 
 ---
 
