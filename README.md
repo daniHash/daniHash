@@ -56,7 +56,7 @@
 ---
 
 <h3 align="center">
-    ⚡I don’t quit. I refine, improve, and rise — every single time.
+    ⚡ Clean code is my priority — I care about readability, maintainability, and quality in every project.
 </h3>
 
 ---
