@@ -62,6 +62,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniHash&show_icons=true&theme=highcontrast" height="170"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=daniHash&show_icons=true&theme=highcontrast" height="170"/> -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZsdHd2eW54eTZxcDB4azdhZzc3MTllaW1oY2R2aHkwZWxmZzFsbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" height="170"/>
 </p>
