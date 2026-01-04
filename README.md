@@ -1,67 +1,37 @@
-<h1>Hey buddy, im "Danial Haj hashem khani"👋</h1>
-
-<h2 align="center">Something About Me 🙋‍♂️</h2>
-<p>  
-  <p align="center">Frontend Developer🧑‍💻 <b>&</b> UIUX Designer🎨</p>
-  -📆 I was born in <b>Esfahan</b>, the heart of <b>Iran</b>, on April 10th, <b>2008</b>.  
-  <br>
-  -💻 I've been passionate about programming since I was 15 and started exploring the world of web development.  
-  <br>
-  -🎨 I also dabble in <b>UI/UX</b> design.  
-  <br>
-  -📚 Currently, I'm studying <b>Computer Science</b> at Aboozar Conservatory.  
-  <br>
-  -💡 I'm a fun-loving, lighthearted guy who enjoys:
-  <code class="language-javascript">["movies", "series", "football", "music", "coding"]</code>
-</p>
-
----
-
-<h2 align="center">
-    💡 My Superpowers
-</h2>
-
-<p>
-    <h3>🧑‍💻 Front-End Skills:</h3>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/html.png" width="40" height="40" alt="HTML" /></a>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/css.png" width="40" height="40" alt="CSS" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/js.png" width="40" height="40" alt="JavaScript" /></a>
-    <a href="https://tailwindcss.com/" target="_blank"><img src="/icons/tailwind.png" width="40" height="40" alt="TailwindCSS" /></a>
-    <a href="https://getbootstrap.com/" target="_blank"><img src="/icons/bootstrap.png" width="40" height="40" alt="Bootstrap" /></a>
-    <a href="https://react.dev/" target="_blank"><img src="/icons/react.png" width="40" height="40" alt="React" /></a>
-    <a href="https://redux.js.org/" target="_blank"><img src="/icons/redux.png" width="40" height="40" alt="Redux" /></a>
-    <a href="https://react-leaflet.js.org/" target="_blank"><img src="/icons/leaflet.jpeg" width="40px" height="40px" alt="React Leaflet" /></a>
-    <h3>🎨 Design Skills:</h3>
-     <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/illustrator.png" width="40" height="40" alt="Illustrator" /></a>
-     <a href="http://figma.com/@daniHash" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/figma.png" width="40" height="40" alt="Figma" /></a>
-    <h3>🛠️ Tools & Other Tech:</h3>
-     <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/git.png" width="40" height="40" alt="Git" /></a>
-     <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"><img src="/icons/npm.png" width="40" height="40" alt="Npm" /></a>
-</p>
-
----
-
-<h2 align="center">
-    📡 Connect with Me
-</h2>
+<h1 align="center">Hey dude, I'm Danial Haj Hashem Khani 👋</h1>
 
 <p align="center">
-    <a href="https://t.me/youllNeverKnowDani"><img src="https://img.shields.io/badge/Telegram-@youllNeverNkowDani-blue?style=flat&logo=telegram"/></a>
-    <a href="https://instagram.com/itsdanioo"><img src="https://img.shields.io/badge/Instagram-@itsdanioo-red?style=flat&logo=instagram"/></a>
-    <a href="mailto:danihashdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-danihashdev@gmail.com-green?style=flat&logo=gmail"/></a>
-    <a href="http://figma.com/@daniHash"><img src="https://img.shields.io/badge/Figma-@daniHash-orange?style=flat&logo=figma"/></a>
-    <a href="https://www.linkedin.com/in/danihash/"><img src="https://img.shields.io/badge/Linkedin-danihash-darkblue?style=flat&logo=linkedin"/></a>
+  <img src="./image/oct.png" alt="Danial Haj Hashem Khani" width="200"/>
 </p>
 
----
+<h2 align="center">My skills</h2>
+
+<p align="center">
+  <!-- Front-End Skills -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="JavaScript" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwindcss" width="60" height="60" alt="TailwindCSS" /></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" /></a>
+  <a href="https://redux.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux" width="60" height="60" alt="Redux" /></a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://camo.githubusercontent.com/552ae7053009eb62cb7628d7d65b07f1802199fc6df99a9b28684ed90642ec11/68747470733a2f2f676f2d736b696c6c2d69636f6e732e76657263656c2e6170702f6170692f69636f6e733f693d7a757374616e64" width="60" height="60" alt="redux zustand" /></a>
+</p>
+
+<p align="center">
+  <!-- Design & Tools -->
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://skillicons.dev/icons?i=illustrator" width="60" height="60" alt="Illustrator" /></a>
+  <a href="http://figma.com/@daniHash" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" /></a>
+  <a href="https://www.npmjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm" width="60" height="60" alt="Npm" /></a>
+</p>
+
+<h2 align="center">🧑‍💻 Front-End Developer & UI/UX Designer 🎨</h2>
 
 <h3 align="center">
-    ⚡ Clean code is my priority — I care about readability, maintainability, and quality in every project.
+⚡ Clean code is my priority — I care about readability, maintainability, and quality in every project.
 </h3>
 
----
-
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=daniHash&show_icons=true&theme=highcontrast" height="170"/> -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZsdHd2eW54eTZxcDB4azdhZzc3MTllaW1oY2R2aHkwZWxmZzFsbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" height="170"/>
+  <img src="YOUR_GIF_URL" alt="Cool GIF" height="170"/>
 </p>
