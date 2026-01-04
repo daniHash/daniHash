@@ -1,7 +1,7 @@
 <h1 align="center">Hey dude, I'm Danial Haj Hashem Khani 👋</h1>
 
 <p align="center">
-  <img src="./image/oct.png" alt="Danial Haj Hashem Khani" width="200"/>
+  <img src="./image/oct.png" alt="Danial Haj Hashem Khani" width="400"/>
 </p>
 
 <h2 align="center">My skills</h2>
