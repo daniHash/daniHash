@@ -4,7 +4,7 @@
   <img src="./image/oct.png" alt="Danial Haj Hashem Khani" width="300"/>
 </p>
 
-<h2 align="center">My skills</h2>
+<h2 align="center">My Skills</h2>
 
 <p align="center">
   <!-- Front-End Skills -->
@@ -24,6 +24,14 @@
   <a href="http://figma.com/@daniHash" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" /></a>
   <a href="https://www.npmjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm" width="60" height="60" alt="Npm" /></a>
+</p>
+
+<h2 align="center">📡 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://t.me/youllNeverKnowDani" target="_blank"><img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/telegram.svg?short_path=b209bfa"/></a>
+  <a href="https://instagram.com/itsdanioo" target="_blank"><img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg?short_path=b209bfa"/></a>
+  <a href="https://www.linkedin.com/in/danihash/" target="_blank"><img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg?short_path=b209bfa"/></a>
 </p>
 
 <h2 align="center">🧑‍💻 Front-End Developer & UI/UX Designer 🎨</h2>
