@@ -26,7 +26,7 @@
   <a href="https://www.npmjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm" width="60" height="60" alt="Npm" /></a>
 </p>
 
-<h2 align="center">📡 Connect with Me</h2>
+<h2 align="center">Connect with Me</h2>
 
 <p align="center">
   <a href="https://t.me/youllNeverKnowDani" target="_blank"><img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/telegram.svg?short_path=b209bfa"/></a>
@@ -41,5 +41,5 @@
 </h3>
 
 <p align="center">
-  <img src="YOUR_GIF_URL" alt="Cool GIF" height="170"/>
+  <img src="./image/your_cool_intro.gif" alt="Cool GIF"/>
 </p>
