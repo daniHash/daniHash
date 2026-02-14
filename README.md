@@ -43,5 +43,5 @@
 </h3>
 
 <p align="center">
-  <img src="./image/your_cool_intro.gif" alt="Cool GIF"/>
+  <img src="image/your_cool_intro1.gif" alt="Cool GIF"/>
 </p>
