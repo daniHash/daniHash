@@ -1,0 +1,107 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <!-- Gradient Background -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="10%" stop-color="#000000"/>
+      <stop offset="50%" stop-color="#02503d"/>
+      <stop offset="85%" stop-color="#317a66"/>
+      <stop offset="100%" stop-color="#46b697"/>
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .bigText {
+        font-family: 'Orbitron', sans-serif;
+        font-size: 90px;
+        font-weight: 700;
+        fill: white;
+        animation: glowPulse 2s infinite alternate;
+      }
+
+      .smallText {
+        font-family: 'Orbitron', sans-serif;
+        font-size: 28px;
+        fill: #00a67a;
+        letter-spacing: 3px;
+      }
+
+      .descText {
+        font-family: 'Orbitron', sans-serif;
+        font-size: 24px;
+        fill: #c8fff0;
+        opacity: 0.9;
+      }
+
+      /* حلقه‌ی نوری بزرگ‌تر */
+      .iconCircle {
+        fill: #00ff88;
+        stroke: #006045;
+        stroke-width: 2;
+        filter: url(#glow);
+      }
+
+      /* بدنه‌ی لپ‌تاپ / مانیتور */
+      .laptopScreen {
+        fill: #001a12;
+        stroke: #00ff88;
+        stroke-width: 2;
+      }
+
+      .laptopBase {
+        fill: #00382a;
+      }
+
+      /* متن کد داخل مانیتور */
+      .codeSymbol {
+        font-family: 'Orbitron', monospace;
+        font-size: 26px;
+        fill: #00ff88;
+        font-weight: 700;
+      }
+
+      @keyframes glowPulse {
+        from {
+          filter: drop-shadow(0 0 5px #006045)
+                  drop-shadow(0 0 10px #006045);
+        }
+        to {
+          filter: drop-shadow(0 0 15px #00a67a)
+                  drop-shadow(0 0 30px #00a67a);
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bg)" />
+
+  <!-- Text -->
+  <text x="80" y="100" class="smallText">Hey dude,</text>
+  <text x="80" y="180" class="bigText">Im DANI</text>
+  <text x="80" y="240" class="descText">Frontend Developer</text>
+
+  <!-- Icon right (NEW) -->
+  <g transform="translate(930, 80)">
+    <!-- حلقه‌ی نوری بزرگ و گلوینگ -->
+    <circle cx="70" cy="70" r="65" class="iconCircle"/>
+
+    <!-- لپ‌تاپ / مانیتور داخل حلقه -->
+    <rect x="35" y="40" width="70" height="50" rx="8" ry="8" class="laptopScreen"/>
+    <!-- پایه‌ی لپ‌تاپ -->
+    <rect x="30" y="92" width="80" height="8" rx="4" ry="4" class="laptopBase"/>
+
+    <!-- کد با پرانتز و کروشه داخل مانیتور -->
+    <text x="70" y="73" text-anchor="middle" class="codeSymbol">{()}</text>
+  </g>
+
+</svg>
