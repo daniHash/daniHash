@@ -1,4 +1,6 @@
-<h1 align="center">Hey dude, I'm Danial Haj Hashem Khani 👋</h1>
+<p align="center">
+  <img src="./image/header.svg" />
+</p>
 
 <p align="center">
   <img src="./image/oct.png" alt="Danial Haj Hashem Khani" width="300"/>
