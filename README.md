@@ -1,5 +1,6 @@
 <p align="center">
   <img src="./image/header.svg" />
+  🧑‍💻 Front-End Developer & UI/UX Designer 🎨
     <!-- https://capsule-render.vercel.app/api?type=waving&color=006045&height=400&section=header&text=Hey%20dude,%20Im%20DANI&fontSize=85&fontColor=032e15&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=65&descAlign=50&font=Bebas%20Neue -->
 </p>
 
@@ -39,7 +40,7 @@
   <a href="https://www.linkedin.com/in/danihash/" target="_blank"><img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg?short_path=b209bfa"/></a>
 </p>
 
-<h2 align="center">🧑‍💻 Front-End Developer & UI/UX Designer 🎨</h2>
+
 
 <h3 align="center">
 ⚡ Clean code is my priority — I care about readability, maintainability, and quality in every project.
