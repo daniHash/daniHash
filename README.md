@@ -43,7 +43,6 @@
 </p>
 
 
-
 <h3 align="center">
 ⚡ Clean code is my priority — I care about readability, maintainability, and quality in every project.
 </h3>
