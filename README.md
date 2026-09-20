@@ -22,13 +22,14 @@
   <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react"  alt="React" /></a>
   <a href="https://redux.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux"  alt="Redux" /></a>
   <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://camo.githubusercontent.com/552ae7053009eb62cb7628d7d65b07f1802199fc6df99a9b28684ed90642ec11/68747470733a2f2f676f2d736b696c6c2d69636f6e732e76657263656c2e6170702f6170692f69636f6e733f693d7a757374616e64"  alt="zustand" /></a>
+  <a href="https://tanstack.com/query/latest" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=reactquery"  alt="Redux" /></a>
 </p>
 
 <p align="center">
   <!-- ILLUSTRATOR - FIGMA - GIT - NPM -->
   <!-- Design & Tools -->
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://skillicons.dev/icons?i=illustrator"  alt="Illustrator" /></a>
   <a href="http://figma.com/@daniHash" target="_blank"><img src="https://skillicons.dev/icons?i=figma"  alt="Figma" /></a>
+  <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=xd"  alt="xd" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git"  alt="Git" /></a>
   <a href="https://www.npmjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm"  alt="Npm" /></a>
 </p>
