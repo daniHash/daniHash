@@ -8,7 +8,7 @@
   <img src="./image/oct.png" alt="Danial Haj Hashem Khani" width="300"/>
 </p> -->
 
-<h2 align="center">My Skills</h2>
+<h1 align="center">Frontend</h1>
 
 <p align="center">
   <!-- HTML - CSS - JAVASCRIPT - TAILWINDCSS - BOOTSTRAP - REACT - REDUX - ZUSTAND -->
@@ -22,9 +22,17 @@
   <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react"  alt="React" /></a>
   <a href="https://redux.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux"  alt="Redux" /></a>
   <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://camo.githubusercontent.com/552ae7053009eb62cb7628d7d65b07f1802199fc6df99a9b28684ed90642ec11/68747470733a2f2f676f2d736b696c6c2d69636f6e732e76657263656c2e6170702f6170692f69636f6e733f693d7a757374616e64"  alt="zustand" /></a>
-  <a href="https://tanstack.com/query/latest" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=reactquery"  alt="Redux" /></a>
+  <a href="https://tanstack.com/query/latest" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=reactquery"  alt="query" /></a>
 </p>
 
+<h1 align="center">Backend</h1>
+
+<p align="center">
+  <a href="https://supabase.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" alt="supabase" /></a>
+  <a href="https://firebase.google.com/docs/database" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=firebase" alt="firebase" /></a>
+</p>
+
+<h1 align="center">Other Tools</h1>
 <p align="center">
   <!-- ILLUSTRATOR - FIGMA - GIT - NPM -->
   <!-- Design & Tools -->
@@ -34,7 +42,7 @@
   <a href="https://www.npmjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm"  alt="Npm" /></a>
 </p>
 
-<h2 align="center">Connect with Me</h2>
+<h3 align="center">Connect with Me</h3>
 
 <p align="center">
   <a href="https://t.me/youllNeverKnowDani" target="_blank"><img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/telegram.svg?short_path=b209bfa"/></a>
