@@ -8,7 +8,7 @@
   <img src="./image/oct.png" alt="Danial Haj Hashem Khani" width="300"/>
 </p> -->
 
-<h1 align="center">Frontend</h1>
+<h2 align="center">Frontend</h2>
 
 <p align="center">
   <!-- HTML - CSS - JAVASCRIPT - TAILWINDCSS - BOOTSTRAP - REACT - REDUX - ZUSTAND -->
@@ -25,14 +25,14 @@
   <a href="https://tanstack.com/query/latest" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=reactquery"  alt="query" /></a>
 </p>
 
-<h1 align="center">Backend</h1>
+<h2 align="center">Backend</h2>
 
 <p align="center">
   <a href="https://supabase.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" alt="supabase" /></a>
   <a href="https://firebase.google.com/docs/database" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=firebase" alt="firebase" /></a>
 </p>
 
-<h1 align="center">Other Tools</h1>
+<h2 align="center">Other Tools</h2>
 <p align="center">
   <!-- ILLUSTRATOR - FIGMA - GIT - NPM -->
   <!-- Design & Tools -->
